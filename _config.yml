@@ -1,0 +1,7 @@
+title: Stefan Jenkins
+description: Code, Magic, & Stuff
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
+collections:
+   jobs:
