@@ -2,10 +2,8 @@
 layout : default
 title : Resume
 ---
-
 # Stefan Jenkins #
 ----
-
 ## Objective ##
 To secure an entry level position as a software engineer or data analyst with opportunity for growth.
 
@@ -70,7 +68,10 @@ To secure an entry level position as a software engineer or data analyst with op
 ---
 
 ## Experience ##
+
 {% assign j = site.jobs | sort: 'end_date' | reverse %}
+
+
 {% for job in j %}
 ### {{job.name}} ###
 {% if job.short_name == 'maxxis' %}
