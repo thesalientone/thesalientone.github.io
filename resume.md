@@ -5,6 +5,70 @@ title : Resume
 
 # Stefan Jenkins #
 ----
+
+## Objective ##
+To secure an entry level position as a software engineer or data analyst with opportunity for growth.
+
+---
+## Technical Skills ##
+<center>
+  <table>
+    <tr>
+
+      <td>
+        <strong>Proficient</strong>
+      </td>
+      <td>
+        <strong>Working Knowledge</strong>
+      </td>
+      <td>
+        <strong>Learning</strong>
+      </td>
+
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Python</li>
+          <ul>
+            <li>Numpy</li>
+            <li>OpenCV</li>
+            <li>Tkinter</li>
+            <li>Pandas</li>
+          </ul>
+          <li>HTML/CSS</li>
+          <li>Visual Basic for Applications</li>
+          <li>Minitab</li>
+          <li>Matlab</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>C Programming</li>
+          <li>Adobe CS</li>
+          <li>Visual Basic</li>
+          <li>SQL</li>
+          <li>Javascript </li>
+          <li>Ruby </li>
+          <li>R</li>
+          <li>Command Line</li>
+          <li>Java </li>
+          <li>Git</li>
+          <li>AWS</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ruby on Rails</li>
+          <li>Django</li>
+          <li>Tensorflow</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</center>
+---
+
 ## Experience ##
 {% assign j = site.jobs | sort: 'end_date' | reverse %}
 {% for job in j %}
@@ -31,7 +95,7 @@ title : Resume
 ### Florida A&M University ###
 
 <div>
- <div class="p-left">B.S. IT - Chemical/Biomedical Engineering</div>
+ <div class="p-left">Chemical/Biomedical Engineering</div>
  <div class="p-right">Aug 2008 - Dec 2014</div>
 </div>
 <br>
@@ -52,28 +116,14 @@ this award for presenting my research at a AAAS conference.
 ### HCASC, National Champions 2011 ###
 #### Academic competition with $100,000 grand prize ####
 
-Honda hosts a national competition called the Honda Campus All Star Challenge
-(HCASC) every year between 64 HBCUs. I competed all four years of undergraduate school,
-and during my junior year we won the grand prize of $100,000. My specialties
+Honda hosts a national academic competition called the Honda Campus All Star Challenge
+(HCASC) every year between 64 HBCUs. Students compete while answering questions on a wide variety of topics.
+I competed all four years of undergraduate school, and during my junior year we won the grand prize of $100,000. My specialty
 areas were science, mathematics, humanities, and popular culture.
 
 <br>
 
 ----
-## Skills ##
-
-### Languages ###
-Python (Numpy, OpenCV, Tkinter, Pandas, Tensorflow, Django), Ruby (Ruby on Rails),
-Visual Basic for Applications, C, SQL, Javascript (JQuery), R, Java, Bash
-HTML/CSS
-
-### Software ###
-Matlab, Unix/Linux, Windows, OSX, MS Office Suite, MS Project, Minitab, Adobe CS, Git
-
-### Competencies ###
-Communication, Command Line, Web Development, GUI Development, 100WPM, 10 key, Project Management, Problem Solving,
-Calculus, Differential Equations, Statistics, Regression Analysis, Design of Experiment,
- Numerical Analysis, Monte-Carlo Simulation, Statistical Process Control,  Piano
 
 ### Organizations ###
 NSBE, AIChE, BMES, Presidential Scholars Association, Honors Student Association, HCASC,

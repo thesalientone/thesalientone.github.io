@@ -1,7 +1,7 @@
 ---
 short_name: maxxis
 name: Maxxis International
-position: Senior Laboratory Technologist
+position: Data Analyst
 start_date: 2017-05-01
 end_date: Present
 
