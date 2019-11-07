@@ -75,9 +75,9 @@ To secure an entry level position as a software engineer or data analyst with op
 {% for job in j %}
 ### {{job.name}} ###
 {% if job.short_name == 'maxxis' %}
-#### {{job.start_date | date: "%b %Y"}} ~ Present ####
+#### {{job.start_date | date: "%b %Y"}} - Present ####
 {% else %}
-#### {{job.start_date | date: "%b %Y"}} ~ {{job.end_date | date: "%b %Y"}} ####
+#### {{job.start_date | date: "%b %Y"}} - {{job.end_date | date: "%b %Y"}} ####
 {% endif %}
 #### {{job.position}} ####
 {{job.content}}
