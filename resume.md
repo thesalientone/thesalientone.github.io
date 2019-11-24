@@ -5,7 +5,7 @@ title : Resume
 # Stefan Jenkins #
 ----
 ## Objective ##
-To secure an entry level position as a software engineer or data analyst with opportunity for growth.
+To secure a position as a software engineer or data analyst with opportunity for growth. My engineering background and mathematical skills relate directly to such a position.
 
 ---
 ## Technical Skills ##

@@ -4,7 +4,6 @@ title:  "Python Fantasy"
 date:   2019-11-17
 categories: [coding, personal]
 repl: https://the-hard-way.stefiroth.repl.run
-excerpt_separator: <!--more-->
 permalink: /pythonfantasy/
 ---
 
