@@ -3,6 +3,7 @@ layout: post
 title:  "Grouping by Regex in Oracle PL/SQL"
 date:   2020-03-29
 categories: [coding]
+tags: [sql, regex]
 ---
 
 With Oracle PL/SQL you can use built in regular expression functions to match query results using SELECT statements. More on that documentation can be found [here in the oracle reference documentation](https://docs.oracle.com/cd/B28359_01/server.111/b28286/functions138.htm#SQLRF06303).

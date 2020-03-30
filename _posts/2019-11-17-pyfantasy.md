@@ -5,6 +5,7 @@ date:   2019-11-17
 categories: [coding, personal]
 repl: https://the-hard-way.stefiroth.repl.run
 permalink: /pythonfantasy/
+tags: [python, game]
 ---
 
 A couple of years ago I began working on a project that I call PythonFantay. A text based game inspired by Final Fantasy. The game is by no means complete, but I figured I could upload a sample of the game here! The game contains the follow features:
