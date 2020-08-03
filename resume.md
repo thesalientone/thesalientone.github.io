@@ -5,66 +5,21 @@ title : Resume
 # Stefan Jenkins #
 ----
 ## Objective ##
-To secure a position as a software engineer or data analyst with opportunity for growth. My engineering background and mathematical skills relate directly to such a position.
+To contribute to the success of a company by applying my expert data engineering and Python development skills and
+experience to enhance their business functions and performance.
 
 ---
 ## Technical Skills ##
-<center>
-  <table>
-    <tr>
 
-      <td>
-        <strong>Proficient</strong>
-      </td>
-      <td>
-        <strong>Working Knowledge</strong>
-      </td>
-      <td>
-        <strong>Learning</strong>
-      </td>
+**Programming Languages**: Python, SQL , Java, JavaScript, Ruby, HTML / CSS, C Programming, Visual Basic for
+Applications, Markdown, Visual Basic, RegEx, REST APIs
 
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>Python</li>
-          <ul>
-            <li>Numpy</li>
-            <li>OpenCV</li>
-            <li>Tkinter</li>
-            <li>Pandas</li>
-          </ul>
-          <li>HTML/CSS</li>
-          <li>Visual Basic for Applications</li>
-          <li>Minitab</li>
-          <li>Matlab</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>C Programming</li>
-          <li>Adobe CS</li>
-          <li>Visual Basic</li>
-          <li>SQL</li>
-          <li>Javascript </li>
-          <li>Ruby </li>
-          <li>R</li>
-          <li>Command Line</li>
-          <li>Java </li>
-          <li>Git</li>
-          <li>AWS</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Ruby on Rails</li>
-          <li>Django</li>
-          <li>Tensorflow</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</center>
+**Databases**: Oracle, MongoDB, BigQuery, MySql
+
+**Applications**: Kofax Kapow RPA, AWS, Google Cloud Platform, Tableau, Minitab, Matlab, R, Git, Adobe CS, Jira
+
+**Libraries**: Numpy, OpenCV, Tkinter, Pandas, BeautifulSoup, jQuery, Django, TensorFlow
+
 ---
 
 ## Experience ##
@@ -74,7 +29,7 @@ To secure a position as a software engineer or data analyst with opportunity for
 
 {% for job in j %}
 ### {{job.name}} ###
-{% if job.short_name == 'maxxis' %}
+{% if job.short_name == 'none' %}
 #### {{job.start_date | date: "%b %Y"}} - Present ####
 {% else %}
 #### {{job.start_date | date: "%b %Y"}} - {{job.end_date | date: "%b %Y"}} ####
@@ -127,5 +82,5 @@ areas were science, mathematics, humanities, and popular culture.
 ----
 
 ### Organizations ###
-NSBE, AIChE, BMES, Presidential Scholars Association, Honors Student Association, HCASC,
+National Society of Black Engineers, American Institute of Chemical Engineers, Biomedical Engineering Society, Presidential Scholars Association, Honors Student Association, Honda Campus All Star Challenge,
 Vienna Boys Choir
