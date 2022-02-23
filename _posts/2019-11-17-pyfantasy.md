@@ -3,7 +3,7 @@ layout: python
 title:  "Python Fantasy"
 date:   2019-11-17
 categories: [coding, personal]
-repl: https://the-hard-way.stefiroth.repl.run
+repl: https://replit.com/@stefiroth/ImmaterialImpassionedPacket?embed=true
 permalink: /pythonfantasy/
 tags: [python, game]
 ---
